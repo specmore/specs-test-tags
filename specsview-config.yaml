@@ -1,2 +1,4 @@
+name: "Test Catalogue 1"
+description: "Specifications for all the interfaces in the across the system X."
 specs-paths: 
 - "specs"
