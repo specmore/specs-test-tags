@@ -1,4 +1,6 @@
 name: "Test Catalogue 1"
 description: "Specifications for all the interfaces in the across the system X."
-specs-paths: 
-- "specs"
+spec-files: 
+- file-path: "specs/example-template.yaml"
+- repo: "pburls/specs-test2"
+  file-path: "specs/example-spec.yaml"
