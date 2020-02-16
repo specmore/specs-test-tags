@@ -4,7 +4,7 @@ info:
   version: "0.1.0"
   contact: 
     name: "The team name going to implement this spec"
-    url: "https://github.com/sky-uk/actual-api-implementation-repository"
+    url: "https://github.com/test-owner/actual-api-implementation-repository"
 tags: 
   - name: Sample Resource
     description: "Sample Resource description"
