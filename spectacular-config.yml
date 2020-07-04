@@ -13,8 +13,8 @@ catalogues:
       interface3:
         specFile:
           filePath: "specs/example-spec.yaml"
-          repo: "pburls/specs-test2"
+          repo: "specmore/specs-test2"
       interface4:
         specFile:
           filePath: "specs/example-template.yaml"
-          repo: "pburls/specs-test-no-access"
+          repo: "specmore/specs-test-no-access"
